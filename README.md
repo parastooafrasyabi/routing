@@ -1,2 +1,2 @@
 # routing
-DFS &amp; BFS
+DFS &amp; BFS; A*
